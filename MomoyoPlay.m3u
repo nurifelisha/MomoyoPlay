@@ -137,13 +137,13 @@ http://103.179.182.117:6768/hls/93/93.m3u8|user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 http://103.179.182.117:6768/hls/59/59.m3u8|user-agent=NSPlayer/12.00.9651.000
 
-#EXTINF:-1 tvg-id="Garuda.TV.id" group-title="National TV" ch-number="23" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png",Garuda TV
+#EXTINF:-1 tvg-id="Garuda.TV.id" group-title="National TV" ch-number="23" tvg-logo="https://github.com/nurifelisha/logo/blob/main/nasional/garudatv.png?raw=true",Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 http://103.179.182.117:6768/hls/11/11.m3u8|user-agent=NSPlayer/12.00.9651.000
 
-#EXTINF:-1 tvg-id="NET.TV.id" group-title="National TV" ch-number="24" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png",MDTV HD
+#EXTINF:-1 tvg-id="MDT.id" group-title="National TV" ch-number="24" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png",MDTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
@@ -713,7 +713,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-#EXTINF:-1 tvg-id="MTV.LIVE.id" group-title="Music" ch-number="160" tvg-logo="https://www.visionplus.id/images/repository/668/668-LOGO-m.png",MTV Live HD
+#EXTINF:-1 tvg-id="MTV.Live.id" group-title="Music" ch-number="160" tvg-logo="https://www.visionplus.id/images/repository/668/668-LOGO-m.png",MTV Live HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
